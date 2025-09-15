@@ -1,0 +1,39 @@
+{
+  "basics": {
+    "name": "SANGARE ABDEL YUSSEF",
+    "label": "Professeur certifié LCETP – Option Électronique · Formateur & Développeur Web",
+    "image": "images/avatar.png",
+    "email": "abdelyussefs@gmail.com",
+    "phone": "+226 55 44 02 66 / +226 60 62 65 07 / +226 78 54 17 32",
+    "url": "https://wa.me/qr/O2PNQIV5AFHRJ1",
+    "summary": "Passionné par l’enseignement technique et le développement web, j’accompagne les apprenants et les entreprises dans la conception de solutions numériques adaptées et performantes.",
+    "location": {
+      "city": "Bobo-Dioulasso",
+      "countryCode": "BF"
+    },
+    "profiles": [
+      { "network": "WhatsApp", "username": "Abdel Yussef", "url": "https://wa.me/qr/O2PNQIV5AFHRJ1" }
+    ],
+    "personal": {
+      "birth": "05/08/2001 à Banfora (Burkina Faso)",
+      "maritalStatus": "Célibataire sans enfant"
+    },
+    "references": [
+      {
+        "name": "M. GANAME",
+        "phone": "+226 53 12 22 44",
+        "role": "Directeur Adjoint de l'IUT / UNB Bobo-Dioulasso (Burkina Faso)"
+      },
+      {
+        "name": "M. GNOUMOU",
+        "phone": "+226 79 05 80 89",
+        "role": "Professeur Certifié en Électronique, Bobo-Dioulasso (Burkina Faso)"
+      },
+      {
+        "name": "M. DIESSONGO",
+        "phone": "+226 76 84 71 32",
+        "role": "Chef de l'Unité MRG à l’ASECNA, Bobo-Dioulasso (Burkina Faso)"
+      }
+    ]
+  }
+}
