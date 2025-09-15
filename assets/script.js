@@ -15,13 +15,12 @@ const observer = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
       entry.target.classList.add("visible");
-      // Une fois révélé, on arrête d’observer (évite de re-check en permanence)
       observer.unobserve(entry.target);
     }
   });
 }, {
-  threshold: 0.05,           // déclenche dès que 5% de la section est visible
-  rootMargin: "0px 0px -50px 0px" // anticipe l'apparition avant la fin du scroll
+  threshold: 0.05,         
+  rootMargin: "0px 0px -50px 0px" 
 });
 
 reveals.forEach(r => observer.observe(r));
